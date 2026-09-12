@@ -16,7 +16,7 @@ I build resilient, high-performance, and accessible web interfaces. My engineeri
 ### 🌐 Connect & Telemetry
 
 - 💻 **Portfolio & Case Studies:** [timilehinadekunle.vercel.app](https://timilehinadekunle.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/timilehin-adekunle](https://linkedin.com/in/timilehin-adekunle)
+- 💼 **LinkedIn:** [linkedin.com/in/timilehin-adekunle](https://www.linkedin.com/in/oluwatimilehin-adekunle-aa76a1271/)
 - 📬 **Email:** [adekemmanuel17@gmail.com](mailto:adekemmanuel17@gmail.com)
 - 📍 **GitHub:** [@timi-emmanuel](https://github.com/timi-emmanuel)
 
@@ -40,20 +40,4 @@ Data & State Engines  │ Zustand · TanStack Table · TanStack Query · SWR · 
 Backend & Database    │ Node.js · Express.js · PostgreSQL (RLS) · Firebase · RESTful APIs
 Engineering Principles│ First-Principles Modeling · FSM State Automata · DRY · SOLID · 12-Factor App
 Tooling & Environment │ Git · Vite · Docker · Vercel · Linux / Bash
-```
-
----
-
-### 📊 GitHub Activity & Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timi-emmanuel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0D0B&title_color=F2B84B&icon_color=4ADE80&text_color=E5E8E3" alt="Timilehin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timi-emmanuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0D0B&title_color=F2B84B&text_color=E5E8E3" alt="Top Languages" />
-</div>
-
----
-
-```bash
-$ sys.health --uptime
-[200 OK] Systems nominal. Always shipping clean, testable, and maintainable software.
 ```
