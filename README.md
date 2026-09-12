@@ -21,21 +21,15 @@ I build resilient, high-performance, and accessible web interfaces. My engineeri
 - 📍 **GitHub:** [@timi-emmanuel](https://github.com/timi-emmanuel)
 
 ---
-
 ### 🛰️ Currently Building & Active Sprints
 
-- 🏢 **SBE Sportsbook Ecosystem:**
-  - Architecting high-concurrency React/Next.js back-office interfaces handling 100K+ live fixture events.
-  - Built TanStack Table virtualization layers and solved production SSR hydration mismatches across reporting tools.
-  - Normalized multi-tier RTP (Return to Player) and jackpot calculation logic across enterprise financial ledgers.
 - 🔒 **PadiHold:**
   - Engineering a digital escrow platform for secure peer-to-peer transactions.
   - Implemented deterministic Finite-State Machines (FSM) to eliminate illegal transition states during dispute resolution and payout releases.
 - 🤖 **Nexta:**
   - AI-powered truthful resume tailoring & ATS optimization engine utilizing vector scoring and multi-stage layout builders.
-- 🌾 **Jirella Farm ERP:**
-  - Multi-tenant agricultural management platform with kernel-enforced PostgreSQL Row-Level Security (RLS) and idempotent container migrations.
-
+- 🛡️ **Deslop:**
+  - design system tool to stop vibe coders from shipping AI slop.
 ---
 
 ### 🛠️ Systems & Technology Matrix
