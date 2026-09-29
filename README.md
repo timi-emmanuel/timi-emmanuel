@@ -9,7 +9,7 @@ $ whoami
 > Location: Nigeria · Available for Global Remote Roles & Senior Engineering Contracts
 ```
 
-I build resilient, high-performance, and accessible web interfaces. My engineering approach combines first-principles mechanical modeling (deterministic state automata, control loops, physical constraints) with modern frontend architecture.
+I build resilient, high-performance, and accessible web interfaces. My engineering approach combines first-principles mechanical modeling with modern frontend architecture.
 
 ---
 
